@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "37a0c82bff73e4c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd60558eadd079a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pickle Rick/main.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54c39faea9f90960",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa688e2c39c213a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5575164be059de60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d96fa5f83ccaa4c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6e5bc0ed4184a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "50e89b9fbb19036f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7263499bb822d72c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pickle Rick/main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5bd60558eadd079a",
+  "lastOpenFiles": [
+    "Pickle Rick/main.md"
+  ]
+}
